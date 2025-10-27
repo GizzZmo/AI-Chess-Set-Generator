@@ -1,0 +1,5 @@
+{
+  "name": "AI Chess Set Theme Builder",
+  "description": "A web application to generate unique chess piece sets using AI based on user-provided themes. Users can specify a theme, and the application will generate images for each chess piece (King, Queen, Rook, Bishop, Knight, Pawn).",
+  "requestFramePermissions": []
+}
